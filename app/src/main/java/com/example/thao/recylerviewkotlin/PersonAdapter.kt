@@ -9,6 +9,7 @@ import kotlinx.android.synthetic.main.item_view.view.*
 
 class PersonAdapter(val personList: ArrayList<Person>): RecyclerView.Adapter<PersonAdapter.ViewHolder>(){
 
+    //test 1 PersonAdapter into master
     override fun getItemCount(): Int {
         return personList.size
     }
