@@ -36,4 +36,8 @@ class MainActivity : AppCompatActivity() {
     {
 
     }
+    fun testDevelop6()
+    {
+
+    }
 }
