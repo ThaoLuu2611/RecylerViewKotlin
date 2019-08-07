@@ -28,4 +28,9 @@ class PersonAdapter(val personList: ArrayList<Person>): RecyclerView.Adapter<Per
         val tvName = itemView.findViewById(R.id.tvName) as TextView
         val tvAddress = itemView.findViewById(R.id.tvAddress) as TextView
     }
+
+    fun testDevelop2()
+    {
+
+    }
 }
