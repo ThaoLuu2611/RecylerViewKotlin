@@ -42,4 +42,12 @@ class PersonAdapter(val personList: ArrayList<Person>): RecyclerView.Adapter<Per
     {
 
     }
+    fun testDevelop5()
+    {
+
+    }
+    fun testDevelop6()
+    {
+
+    }
 }
